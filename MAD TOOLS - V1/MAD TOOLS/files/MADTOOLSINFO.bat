@@ -4,7 +4,7 @@ title Mad Tools - by AKr*
 color C
 :banner
 echo.
-echo                                                    [+] github  :
+echo                                                    [+] github  : https://github.com/akrv3/Mad_Tools.git
 echo                                                    [+] discord :
 pause
 
